@@ -2,3 +2,7 @@ h1{
     color: blue;
     background-color: lightblue;
 }
+h2{
+    border: 1px solid blue;
+    background-color: gray;
+}
